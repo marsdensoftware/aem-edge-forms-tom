@@ -1,11 +1,8 @@
 {
   "mappings": [
-    "/content/showcase/:/",
-    "/content/showcase/configuration:/.helix/config.json",
-    "/content/showcase/metadata:/metadata.json"
+    "/content/edge-forms-tom/:/",
+    "/content/edge-forms-tom/configuration:/.helix/config.json",
+    "/content/edge-forms-tom/metadata:/metadata.json"
   ],
-  "includes": [
-    "/content/",
-    "/content/dam/"
-  ]
+  "includes": ["/content/", "/content/dam/"]
 }
